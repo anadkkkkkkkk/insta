@@ -1,0 +1,17 @@
+# الملفات الضخمة
+rockyou.txt
+big_wordlist.txt
+ultimate_full.txt
+ultimate_hsyn.txt
+hsyn_mega.txt
+
+# ملفات النتائج المؤقتة
+valid.txt
+valid_2fa.txt
+ultimate_final_results.txt
+ultimate_results.txt
+*.log
+
+# ملفات النظام
+__pycache__/
+*.pyc
